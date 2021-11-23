@@ -1,0 +1,112 @@
+{
+    "2-methoxyethanol" : {
+        "methyl" : 0,
+        "methylene" : 2,
+        "carbonyl" : 0,
+        "methoxyl" : 1,
+        "hydroxyl" : 1,
+        "carboxyl" : 0,
+        "ether" : 0,
+        "amine" : 0
+    },
+    "ethylene_glycol" : {
+        "methyl" : 0,
+        "methylene" : 2,
+        "carbonyl" : 0,
+        "methoxyl" : 0,
+        "hydroxyl" : 2,
+        "carboxyl" : 0,
+        "ether" : 0,
+        "amine" : 0
+    },
+    "trimethylene_glycol" : {
+        "methyl" : 0,
+        "methylene" : 3,
+        "carbonyl" : 0,
+        "methoxyl" : 0,
+        "hydroxyl" : 2,
+        "carboxyl" : 0,
+        "ether" : 0,
+        "amine" : 0
+    },
+    "acetic_acids" : {
+        "methyl" : 1,
+        "methylene" : 0,
+        "carbonyl" : 1,
+        "methoxyl" : 0,
+        "hydroxyl" : 1,
+        "carboxyl" : 0,
+        "ether" : 0,
+        "amine" : 0
+    },
+    "acetic_anhydride" : {
+        "methyl" : 2,
+        "methylene" : 0,
+        "carbonyl" : 2,
+        "methoxyl" : 0,
+        "hydroxyl" : 0,
+        "carboxyl" : 0,
+        "ether" : 1,
+        "amine" : 0
+    },
+    "citric_acid" : {
+        "methyl" : 0,
+        "methylene" : 2,
+        "carbonyl" : 3,
+        "methoxyl" : 0,
+        "hydroxyl" : 4,
+        "carboxyl" : 0,
+        "ether" : 0,
+        "amine" : 0
+    },
+    "ethanol" : {
+        "methyl" : 1,
+        "methylene" : 0,
+        "carbonyl" : 0,
+        "methoxyl" : 0,
+        "hydroxyl" : 1,
+        "carboxyl" : 0,
+        "ether" : 0,
+        "amine" : 0
+    },
+    "ethanolamine" : {
+        "methyl" : 0,
+        "methylene" : 0,
+        "carbonyl" : 0,
+        "methoxyl" : 0,
+        "hydroxyl" : 1,
+        "carboxyl" : 0,
+        "ether" : 0,
+        "amine" : 1
+    },
+    "ethylenediamine" : {
+        "methyl" : 0,
+        "methylene" : 0,
+        "carbonyl" : 0,
+        "methoxyl" : 0,
+        "hydroxyl" : 0,
+        "carboxyl" : 0,
+        "ether" : 0,
+        "amine" : 2
+    },
+    "acetone" : {
+        "methyl" : 0,
+        "methylene" : 0,
+        "carbonyl" : 1,
+        "methoxyl" : 0,
+        "hydroxyl" : 2,
+        "carboxyl" : 0,
+        "ether" : 0,
+        "amine" : 0
+    },
+    "acetylacetone" : {
+        "methyl" : 1,
+        "methylene" : 0,
+        "carbonyl" : 2,
+        "methoxyl" : 0,
+        "hydroxyl" : 2,
+        "carboxyl" : 0,
+        "ether" : 0,
+        "amine" : 0
+    }
+}
