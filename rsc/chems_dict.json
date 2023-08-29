@@ -1,0 +1,82 @@
+{
+    "2_methoxyethanol" :
+    {
+        "SMILES" : "COCCO",
+        "vector" : []
+    },
+    "ethylene_glycol" :
+    {
+        "SMILES" : "C(CO)O",
+        "vector" : []
+    },
+    "trimethylene_glycol" :
+    {
+        "SMILES" : "C(CO)CO",
+        "vector" : []
+    },
+    "ethanol" :
+    {
+        "SMILES" : "CCO",
+        "vector" : []
+    },
+    "acetic_acid" :
+    {
+        "SMILES" : "CC(=O)O",
+        "vector" : []
+    },
+    "citric_acid" :
+    {
+        "SMILES" : "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+        "vector" : []
+    },
+    "acetic_anhydride" :
+    {
+        "SMILES" : "CC(=O)OC(=O)C",
+        "vector" : []
+    },
+    "ethanolamine" :
+    {
+        "SMILES" : "C(CO)N",
+        "vector" : []
+    },
+    "diethanolamine" :
+    {
+        "SMILES" : "C(CO)NCCO",
+        "vector" : []
+    },
+    "nitric_acid" :
+    {
+        "SMILES" : "[N+](=O)(O)[O-]",
+        "vector" : []
+    },
+    "ethylenediamine" :
+    {
+        "SMILES" : "C(CN)N",
+        "vector" : []
+    },
+    "ammonium_hydroxide" :
+    {
+        "SMILES" : "[NH4+].[OH-]",
+        "vector" : []
+    },
+    "acetone" :
+    {
+        "SMILES" : "CC(=O)C",
+        "vector" : []
+    },
+    "acetylacetone" :
+    {
+        "SMILES" : "CC(=O)CC(=O)C",
+        "vector" : []
+    },
+    "polyvinylpyrrolidone" :
+    {
+        "SMILES" : "C=CN1CCCC1=O",
+        "vector" : []
+    },
+    "nn_dimethylformamide" :
+    {
+        "SMILES" : "CN(C)C=O",
+        "vector" : []
+    }
+}
